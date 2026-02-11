@@ -1,0 +1,5 @@
+  {
+    "api_url": "http://localhost:8000/api",
+    "api_key": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1Yzg4ZjI5Yy1lOGViLTRmNmUtOTVlOC1mYjg5OWI4OTM1MjQiLCJwbGFuIjoiZnJlZSIsImV4cCI6MTc3MzI5NjIyMn0.SOVZvDZ1w5pUeSa4YIyNULrdZeLzFIiy6QtKYssSxg0",
+    "ai_tool": "claude_code"
+  }

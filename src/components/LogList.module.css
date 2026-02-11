@@ -1,0 +1,32 @@
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.item {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 14px;
+}
+
+.content {
+  margin: 0;
+  color: #111827;
+  font-weight: 600;
+}
+
+.time {
+  margin: 8px 0 0;
+  color: #374151;
+  font-size: 0.95rem;
+}
+
+.empty {
+  margin: 0;
+  color: #6b7280;
+  font-size: 0.95rem;
+}
